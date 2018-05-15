@@ -1,0 +1,12 @@
+<suite name="softwaretestingmaterial">
+	<test name="testngTest">
+		<classes>
+			<class name="myMavenProject.myMvnProject.FirstTestNGClass"/>
+		</classes>
+	</test>
+	<test name="testngTest1">
+		<classes>
+			<class name="myMavenProject.myMvnProject.SecondTestNG"/>
+		</classes>
+	</test>
+</suite>

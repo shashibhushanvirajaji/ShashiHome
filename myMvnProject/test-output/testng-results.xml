@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="softwaretestingmaterial" duration-ms="234" started-at="2018-05-08T16:30:00Z" finished-at="2018-05-08T16:30:00Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="125" started-at="2018-05-08T16:30:00Z" finished-at="2018-05-08T16:30:00Z">
+      <class name="myMavenProject.myMvnProject.FirstTestNGClass">
+        <test-method status="PASS" signature="f()[pri:0, instance:myMavenProject.myMvnProject.FirstTestNGClass@a48474]" name="f" duration-ms="47" started-at="2018-05-08T22:00:00Z" finished-at="2018-05-08T22:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- myMavenProject.myMvnProject.FirstTestNGClass -->
+    </test> <!-- testngTest -->
+    <test name="testngTest1" duration-ms="15" started-at="2018-05-08T16:30:00Z" finished-at="2018-05-08T16:30:00Z">
+      <class name="myMavenProject.myMvnProject.SecondTestNG">
+        <test-method status="PASS" signature="f()[pri:0, instance:myMavenProject.myMvnProject.SecondTestNG@100a15d]" name="f" duration-ms="15" started-at="2018-05-08T22:00:00Z" finished-at="2018-05-08T22:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- myMavenProject.myMvnProject.SecondTestNG -->
+    </test> <!-- testngTest1 -->
+  </suite> <!-- softwaretestingmaterial -->
+</testng-results>
